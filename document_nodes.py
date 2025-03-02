@@ -280,7 +280,7 @@ NODE_CLASS_MAPPINGS = {
     "DocumentLoader": DocumentLoaderNode,
     "PDFToImage": PDFToImageNode,
     "PDFPageSplitter": PDFPageSplitterNode,
-    "ImageSelector": ImageSelectorNode,
+    # "ImageSelector": ImageSelectorNode,
     "TextChunker": TextChunkerNode,
     "ChunkRouter": ChunkRouterNode
 }
@@ -289,7 +289,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "DocumentLoader": "Document Loader",
     "PDFToImage": "PDF to Image (Multi-Page)",
     "PDFPageSplitter": "PDF Page Splitter",
-    "ImageSelector": "Image Selector",
+    # "ImageSelector": "Image Selector",
     "TextChunker": "Text Chunker",
     "ChunkRouter": "Chunk Router"
 }
